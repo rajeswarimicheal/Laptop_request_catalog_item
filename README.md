@@ -76,3 +76,4 @@ This project was developed under the **Naan Mudhalvan Scheme**, guided by the
 
 The **Laptop Request Catalog Item** project showcases how **ServiceNow** can be utilized to efficiently automate IT service request handling. By reducing manual workload and improving ticket resolution speed, this implementation strengthens IT service management workflows and enhances overall productivity.
 
+---
