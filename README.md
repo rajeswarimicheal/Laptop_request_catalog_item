@@ -2,7 +2,6 @@
 
 # 💻 Laptop Request Catalog Item – Naan Mudhalvan Project (ServiceNow)
 
-### 🚀 Streamlining Ticket Assignment for Efficient IT Support Operations
 
 ---
 
@@ -14,7 +13,9 @@
 * Santhosh kumar .V
 
 **College:** M.E.T Engineering College
+
 **Department:** Computer Science and Engineering
+
 **Batch:** 2022 – 2026
 
 ---
@@ -60,7 +61,7 @@ By leveraging **ServiceNow’s automation and workflow capabilities**, the solut
 ## 🎬 Demo Video
 
 🎥 **Watch the Demo:**
-[Click here to view on Google Drive](https://drive.google.com/file/d/1CsEaFulJ3-iPhJPa1PUuorScIPhmPUEd/view?usp=drive_link)
+[Click here to view on Google Drive](https://drive.google.com/file/d/1ct5-lPLskbFYmNdazdc-C16zE1A8Krof/view?usp=drive_link)
 
 ---
 
